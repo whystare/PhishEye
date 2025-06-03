@@ -1,0 +1,7 @@
+requests
+whois
+colorama
+scikit-image
+virustotal-python
+selenium
+Pillow
