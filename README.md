@@ -39,7 +39,7 @@ $ python main.py
 
   ##   📦 Установка
   ```bash
-git clone https://github.com/<your-username>/PhishEye.git
+git clone https://github.com/whystare/PhishEye.git
 cd PhishEye
 
 # Создай и активируй виртуальное окружение
